@@ -29,6 +29,7 @@ namespace nothinbutdotnetstore.specs
 
 
             It should_get_a_list_of_the_main_departments_in_the_store = () =>
+              
             request.ShouldNotBeNull(); 
 
 
