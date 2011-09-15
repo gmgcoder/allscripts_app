@@ -6,7 +6,7 @@ namespace nothinbutdotnetstore.web.application
     {
         public void process(IContainRequestInformation request)
         {
-            throw new System.NotImplementedException();
+            return;
         }
     }
 }
